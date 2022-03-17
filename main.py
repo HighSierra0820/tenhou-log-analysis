@@ -171,7 +171,7 @@ for paifuname in args:
 				print("RYUUKYOKU")
 		elif data[0]=='REACH':
 		# riichi
-		# the term riichi and the word reach is unrelevant
+		# once again, the term riichi and the word reach are unrelevant
 			who=int(data[1]['who'])
 			step=int(data[1]['step'])
 
